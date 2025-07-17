@@ -1,5 +1,5 @@
 # Transform-YouTube-Videos-into-Structured-Scripts-with-AI
-
+OUTPUT : https://drive.google.com/file/d/1ieFy0ii0ukx3VPq2GdxrI28PkQwEtUnz/view?usp=sharing
 YouScript AI is a real-time YouTube Script Generator that automatically converts any public YouTube video into a structured, scene-wise script using Google's Gemini AI.
 
 🔍 Key Features:
